@@ -10,13 +10,15 @@
 # Project home page: https://github.com/KodiTVR-add-on/hosts
 # Project releases: https://github.com/KodiTVR-add-on/hosts/releases
 #
-# ===============================================================
-            88888 Yb    dP    8              .d88b                         |8|  .8/""
-   0000       8    Yb  dP     88b. Yb  dP    8P www 8d8b 8   8 88b. .d8b.  |8| .8/                   w 88888 Yb     dP|888b.
-              8     YbdP      8  8  YbdP     8b  d8 8P   8b d8 8  8 8' .8  |8wwKK|    .d8b.  |88b.  |8| |8|    Yb  dP |8  .8   (c)
-              8      YP       88P'   dP      `Y88P' 8    `Y8P8 88P' `Y8P'  |8|  Yb\  8'| |.8 |8| |8 |8| |8|     YbdP  |8wwk`
-                                     8                         8           |8|  'Yb\__`Y8P´  |88P'  |8| |8|      YP   |8  Yb_
-									 
+# ===================================================================================================================================
+#####################################################################################################################################
+#            88888 Yb    dP    8              .d88b                         |8|  .8/""                                              #
+#   0000       8    Yb  dP     88b. Yb  dP    8P www 8d8b 8   8 88b. .d8b.  |8| .8/                   w 88888 Yb     dP|888b.       #
+#              8     YbdP      8  8  YbdP     8b  d8 8P   8b d8 8  8 8' .8  |8wwKK|    .d8b.  |88b.  |8| |8|    Yb  dP |8  .8   (c) #
+#              8      YP       88P'   dP      `Y88P' 8    `Y8P8 88P' `Y8P'  |8|  Yb\  8'| |.8 |8| |8 |8| |8|     YbdP  |8wwk`       #
+#                                     8                         8           |8|  'Yb\__`Y8P´  |88P'  |8| |8|      YP   |8  Yb_      #
+#####################################################################################################################################
+# ===================================================================================================================================									 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 127.0.0.1 local
@@ -4767,104 +4769,104 @@ ff02::3 ip6-allhosts
 0.0.0.0 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 0.0.0.0 s3.ll.videorolls.row.aiv-cdn.net
 
-# [akadns.net]
-0.0.0.0 innovid.com.akadns.net
-0.0.0.0 ag.innovid.com.akadns.net
-0.0.0.0 ag-5-split.ag.innovid.com.akadns.net
-0.0.0.0 aws-oreg-cali-virg.ag.innovid.com.akadns.net
-0.0.0.0 dts.innovid.com.akadns.net
-0.0.0.0 aws-oregon-california-virginia.dts.innovid.com.akadns.net
-0.0.0.0 dts-5-split-vohnu.dts.innovid.com.akadns.net
-0.0.0.0 rtr.innovid.com.akadns.net
-0.0.0.0 aws-oregon-jrtr.rtr.innovid.com.akadns.net
-0.0.0.0 rtr-5-split-vohnu.rtr.innovid.com.akadns.net
-0.0.0.0 s.innovid.com.akadns.net
-0.0.0.0 aws-oregon-ohio-virginia.s.innovid.com.akadns.net
-0.0.0.0 stats-5-split-vohnu.s.innovid.com.akadns.net
-0.0.0.0 jadserve.postrelease.com.akadns.net
-0.0.0.0 stickyadstv.com.akadns.net
-0.0.0.0 ads.stickyadstv.com.akadns.net
-0.0.0.0 fp3.ads.stickyadstv.com.akadns.net
-0.0.0.0 ip1.ads.stickyadstv.com.akadns.net
-0.0.0.0 ip2.ads.stickyadstv.com.akadns.net
-0.0.0.0 wlb1.ads.stickyadstv.com.akadns.net
-0.0.0.0 cdn.stickyadstv.com.akadns.net
-0.0.0.0 ip1.cdn.stickyadstv.com.akadns.net
-0.0.0.0 wlb1.cdn.stickyadstv.com.akadns.net
-0.0.0.0 wlb2.cdn.stickyadstv.com.akadns.net
-0.0.0.0 tidaltv.com.akadns.net
-0.0.0.0 sync.tidaltv.com.akadns.net
-0.0.0.0 sync-apsg.tidaltv.com.akadns.net
-0.0.0.0 sync-usva.tidaltv.com.akadns.net
-0.0.0.0 turn.com.akadns.net
-0.0.0.0 ad.turn.com.akadns.net
-0.0.0.0 d.turn.com.akadns.net
-0.0.0.0 sd.turn.com.akadns.net
-0.0.0.0 beacon-cdn.walmart.com.akadns.net
-0.0.0.0 beacon-cdn-custom.walmart.com.akadns.net
-0.0.0.0 analytics.mobile-cdn.walmart.com.akadns.net
-0.0.0.0 weighted.com.akadns.net
-0.0.0.0 dotomi.weighted.com.akadns.net
-0.0.0.0 afp.dotomi.weighted.com.akadns.net
-0.0.0.0 legacy.dotomi.weighted.com.akadns.net
-0.0.0.0 afp.legacy.dotomi.weighted.com.akadns.net
-0.0.0.0 iad.legacy.dotomi.weighted.com.akadns.net
-0.0.0.0 us.iad.legacy.dotomi.weighted.com.akadns.net
-0.0.0.0 sjc.legacy.dotomi.weighted.com.akadns.net
-0.0.0.0 us.sjc.legacy.dotomi.weighted.com.akadns.net
-0.0.0.0 sjc.dotomi.weighted.com.akadns.net
-0.0.0.0 us.sjc.dotomi.weighted.com.akadns.net
-0.0.0.0 afp.us.sjc.dotomi.weighted.com.akadns.net
-0.0.0.0 us.dotomi.weighted.com.akadns.net
-0.0.0.0 afp.us.dotomi.weighted.com.akadns.net
-0.0.0.0 cpe.us.dotomi.weighted.com.akadns.net
-0.0.0.0 comscore.akadns.net
-0.0.0.0 panel-aws-production.comscore.akadns.net
-0.0.0.0 rules.comscore.akadns.net
-0.0.0.0 dvgtm.akadns.net
-0.0.0.0 bs-geo.dvgtm.akadns.net
-0.0.0.0 bs-wlb-sg.dvgtm.akadns.net
-0.0.0.0 bs-wlb-uswest.dvgtm.akadns.net
-0.0.0.0 cacp-hlb.dvgtm.akadns.net
-0.0.0.0 nycp-hlb.dvgtm.akadns.net
-0.0.0.0 sgcp-hlb.dvgtm.akadns.net
-0.0.0.0 tps-wlb-uswest.dvgtm.akadns.net
-0.0.0.0 eyeblaster.akadns.net
-0.0.0.0 bs.eyeblaster.akadns.net
-0.0.0.0 bsams.eyeblaster.akadns.net
-0.0.0.0 bsjp.eyeblaster.akadns.net
-0.0.0.0 bsla.eyeblaster.akadns.net
-0.0.0.0 bssg.eyeblaster.akadns.net
-0.0.0.0 adlanding.admarketplace.net.akadns.net
-0.0.0.0 rubiconproject.net.akadns.net
-0.0.0.0 beacon-nf.rubiconproject.net.akadns.net
-0.0.0.0 beacon-perf-hkg1.rubiconproject.net.akadns.net
-0.0.0.0 beacon-perf-iad2.rubiconproject.net.akadns.net
-0.0.0.0 beacon-perf-iad3.rubiconproject.net.akadns.net
-0.0.0.0 beacon-perf-sjc.rubiconproject.net.akadns.net
-0.0.0.0 beacon-sjc2.rubiconproject.net.akadns.net
-0.0.0.0 optimized-by.rubiconproject.net.akadns.net
-0.0.0.0 perf-optimized-by.rubiconproject.net.akadns.net
-0.0.0.0 pixel.rubiconproject.net.akadns.net
-0.0.0.0 pixel-apac.rubiconproject.net.akadns.net
-0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
-0.0.0.0 pixel-us-east.rubiconproject.net.akadns.net
-0.0.0.0 pixel-us-west.rubiconproject.net.akadns.net
-0.0.0.0 prebid-a.rubiconproject.net.akadns.net
-0.0.0.0 prebid-server.rubiconproject.net.akadns.net
-0.0.0.0 prebid-server-perf.rubiconproject.net.akadns.net
-0.0.0.0 tagged-by.rubiconproject.net.akadns.net
-0.0.0.0 kaltura.perf.akadns.net
-0.0.0.0 origin.kaltura.perf.akadns.net
-0.0.0.0 stats.origin.kaltura.perf.akadns.net
-0.0.0.0 adgrx.com.tech.akadns.net
-0.0.0.0 rtb.adgrx.com.tech.akadns.net
-0.0.0.0 tvx.adgrx.com.tech.akadns.net
-0.0.0.0 vungle.akadns.net
-0.0.0.0 api.vungle.akadns.net
-0.0.0.0 tpat.api.vungle.akadns.net
-0.0.0.0 cdn-lb.vungle.akadns.net
-0.0.0.0 ingest.vungle.akadns.net
+# [aKodiTVRns.net]
+0.0.0.0 innovid.com.aKodiTVRns.net
+0.0.0.0 ag.innovid.com.aKodiTVRns.net
+0.0.0.0 ag-5-split.ag.innovid.com.aKodiTVRns.net
+0.0.0.0 aws-oreg-cali-virg.ag.innovid.com.aKodiTVRns.net
+0.0.0.0 dts.innovid.com.aKodiTVRns.net
+0.0.0.0 aws-oregon-california-virginia.dts.innovid.com.aKodiTVRns.net
+0.0.0.0 dts-5-split-vohnu.dts.innovid.com.aKodiTVRns.net
+0.0.0.0 rtr.innovid.com.aKodiTVRns.net
+0.0.0.0 aws-oregon-jrtr.rtr.innovid.com.aKodiTVRns.net
+0.0.0.0 rtr-5-split-vohnu.rtr.innovid.com.aKodiTVRns.net
+0.0.0.0 s.innovid.com.aKodiTVRns.net
+0.0.0.0 aws-oregon-ohio-virginia.s.innovid.com.aKodiTVRns.net
+0.0.0.0 stats-5-split-vohnu.s.innovid.com.aKodiTVRns.net
+0.0.0.0 jadserve.postrelease.com.aKodiTVRns.net
+0.0.0.0 stickyadstv.com.aKodiTVRns.net
+0.0.0.0 ads.stickyadstv.com.aKodiTVRns.net
+0.0.0.0 fp3.ads.stickyadstv.com.aKodiTVRns.net
+0.0.0.0 ip1.ads.stickyadstv.com.aKodiTVRns.net
+0.0.0.0 ip2.ads.stickyadstv.com.aKodiTVRns.net
+0.0.0.0 wlb1.ads.stickyadstv.com.aKodiTVRns.net
+0.0.0.0 cdn.stickyadstv.com.aKodiTVRns.net
+0.0.0.0 ip1.cdn.stickyadstv.com.aKodiTVRns.net
+0.0.0.0 wlb1.cdn.stickyadstv.com.aKodiTVRns.net
+0.0.0.0 wlb2.cdn.stickyadstv.com.aKodiTVRns.net
+0.0.0.0 tidaltv.com.aKodiTVRns.net
+0.0.0.0 sync.tidaltv.com.aKodiTVRns.net
+0.0.0.0 sync-apsg.tidaltv.com.aKodiTVRns.net
+0.0.0.0 sync-usva.tidaltv.com.aKodiTVRns.net
+0.0.0.0 turn.com.aKodiTVRns.net
+0.0.0.0 ad.turn.com.aKodiTVRns.net
+0.0.0.0 d.turn.com.aKodiTVRns.net
+0.0.0.0 sd.turn.com.aKodiTVRns.net
+0.0.0.0 beacon-cdn.walmart.com.aKodiTVRns.net
+0.0.0.0 beacon-cdn-custom.walmart.com.aKodiTVRns.net
+0.0.0.0 analytics.mobile-cdn.walmart.com.aKodiTVRns.net
+0.0.0.0 weighted.com.aKodiTVRns.net
+0.0.0.0 dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 afp.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 legacy.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 afp.legacy.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 iad.legacy.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 us.iad.legacy.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 sjc.legacy.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 us.sjc.legacy.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 sjc.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 us.sjc.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 afp.us.sjc.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 us.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 afp.us.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 cpe.us.dotomi.weighted.com.aKodiTVRns.net
+0.0.0.0 comscore.aKodiTVRns.net
+0.0.0.0 panel-aws-production.comscore.aKodiTVRns.net
+0.0.0.0 rules.comscore.aKodiTVRns.net
+0.0.0.0 dvgtm.aKodiTVRns.net
+0.0.0.0 bs-geo.dvgtm.aKodiTVRns.net
+0.0.0.0 bs-wlb-sg.dvgtm.aKodiTVRns.net
+0.0.0.0 bs-wlb-uswest.dvgtm.aKodiTVRns.net
+0.0.0.0 cacp-hlb.dvgtm.aKodiTVRns.net
+0.0.0.0 nycp-hlb.dvgtm.aKodiTVRns.net
+0.0.0.0 sgcp-hlb.dvgtm.aKodiTVRns.net
+0.0.0.0 tps-wlb-uswest.dvgtm.aKodiTVRns.net
+0.0.0.0 eyeblaster.aKodiTVRns.net
+0.0.0.0 bs.eyeblaster.aKodiTVRns.net
+0.0.0.0 bsams.eyeblaster.aKodiTVRns.net
+0.0.0.0 bsjp.eyeblaster.aKodiTVRns.net
+0.0.0.0 bsla.eyeblaster.aKodiTVRns.net
+0.0.0.0 bssg.eyeblaster.aKodiTVRns.net
+0.0.0.0 adlanding.admarketplace.net.aKodiTVRns.net
+0.0.0.0 rubiconproject.net.aKodiTVRns.net
+0.0.0.0 beacon-nf.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 beacon-perf-hkg1.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 beacon-perf-iad2.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 beacon-perf-iad3.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 beacon-perf-sjc.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 beacon-sjc2.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 optimized-by.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 perf-optimized-by.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 pixel.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 pixel-apac.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 pixel-eu.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 pixel-us-east.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 pixel-us-west.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 prebid-a.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 prebid-server.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 prebid-server-perf.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 tagged-by.rubiconproject.net.aKodiTVRns.net
+0.0.0.0 kaltura.perf.aKodiTVRns.net
+0.0.0.0 origin.kaltura.perf.aKodiTVRns.net
+0.0.0.0 stats.origin.kaltura.perf.aKodiTVRns.net
+0.0.0.0 adgrx.com.tech.aKodiTVRns.net
+0.0.0.0 rtb.adgrx.com.tech.aKodiTVRns.net
+0.0.0.0 tvx.adgrx.com.tech.aKodiTVRns.net
+0.0.0.0 vungle.aKodiTVRns.net
+0.0.0.0 api.vungle.aKodiTVRns.net
+0.0.0.0 tpat.api.vungle.aKodiTVRns.net
+0.0.0.0 cdn-lb.vungle.aKodiTVRns.net
+0.0.0.0 ingest.vungle.aKodiTVRns.net
 
 # [akamai.net]
 0.0.0.0 a1843.g.akamai.net
@@ -8500,8 +8502,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 rd.glispa.com
 0.0.0.0 trk.glispa.com
 
-# [globalnetworkad.com]
-0.0.0.0 trans.globalnetworkad.com
+# [globalnetworKodiTVR.com]
+0.0.0.0 trans.globalnetworKodiTVR.com
 
 # [glulive.com]
 0.0.0.0 personalization.centech.glulive.com
@@ -10843,7 +10845,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smgbacdcm963283424490.s.moatpixel.com
 0.0.0.0 smgbacflashtalking972483164724.s.moatpixel.com
 0.0.0.0 sparkusdiscoverdcm781744349491.s.moatpixel.com
-0.0.0.0 stackadaptdisplay515602019759.s.moatpixel.com
+0.0.0.0 stacKodiTVRaptdisplay515602019759.s.moatpixel.com
 0.0.0.0 targetdfp320149284940.s.moatpixel.com
 0.0.0.0 teads245638586802.s.moatpixel.com
 0.0.0.0 terminusdisplay296618589072.s.moatpixel.com
@@ -11391,8 +11393,8 @@ ff02::3 ip6-allhosts
 # [netsolads.com]
 0.0.0.0 stats.netsolads.com
 
-# [networkad.net]
-0.0.0.0 app.networkad.net
+# [networKodiTVR.net]
+0.0.0.0 app.networKodiTVR.net
 
 # [networld.hk]
 0.0.0.0 networld.hk
@@ -11709,7 +11711,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aol-bidout-d.openx.net
 0.0.0.0 apacdigital-d.openx.net
 0.0.0.0 apester-d.openx.net
-0.0.0.0 arkadium-d.openx.net
+0.0.0.0 arKodiTVRium-d.openx.net
 0.0.0.0 ascendeum-d.openx.net
 0.0.0.0 ask-d.openx.net
 0.0.0.0 ask-media-group-d.openx.net
@@ -13870,15 +13872,15 @@ ff02::3 ip6-allhosts
 # [ssl-services.com]
 0.0.0.0 retarget.ssl-services.com
 
-# [stackadapt.com]
-0.0.0.0 cdn.stackadapt.com
-0.0.0.0 evm1.stackadapt.com
-0.0.0.0 uw.evm1.stackadapt.com
-0.0.0.0 evm2.stackadapt.com
-0.0.0.0 east.srv.stackadapt.com
-0.0.0.0 sync.srv.stackadapt.com
-0.0.0.0 tags.srv.stackadapt.com
-0.0.0.0 uw.srv.stackadapt.com
+# [stacKodiTVRapt.com]
+0.0.0.0 cdn.stacKodiTVRapt.com
+0.0.0.0 evm1.stacKodiTVRapt.com
+0.0.0.0 uw.evm1.stacKodiTVRapt.com
+0.0.0.0 evm2.stacKodiTVRapt.com
+0.0.0.0 east.srv.stacKodiTVRapt.com
+0.0.0.0 sync.srv.stacKodiTVRapt.com
+0.0.0.0 tags.srv.stacKodiTVRapt.com
+0.0.0.0 uw.srv.stacKodiTVRapt.com
 
 # [stackpathdns.com]
 0.0.0.0 ads-lfi3olnec7fr.stackpathdns.com
@@ -15548,8 +15550,8 @@ ff02::3 ip6-allhosts
 # [wrating.com]
 0.0.0.0 wrating.com
 
-# [wrinkads.com]
-0.0.0.0 trk.wrinkads.com
+# [wrinKodiTVRs.com]
+0.0.0.0 trk.wrinKodiTVRs.com
 
 # [wsod.com]
 0.0.0.0 wsod.com
@@ -17621,7 +17623,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clearshieldredirect.com
 0.0.0.0 cle.kr
 0.0.0.0 click.adimmix.com
-0.0.0.0 clickadu.com
+0.0.0.0 clicKodiTVRu.com
 0.0.0.0 clickbank.net
 0.0.0.0 clickcash.com
 0.0.0.0 clickcash.webpower.com
@@ -18306,7 +18308,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 payn.me
 0.0.0.0 paypalcz.cz
 0.0.0.0 paypal-exchange.com
-0.0.0.0 payperclickadvertising.org.uk
+0.0.0.0 payperclicKodiTVRvertising.org.uk
 0.0.0.0 pay-per-search.com
 0.0.0.0 pcash.imlive.com
 0.0.0.0 pcbutts1.ourtoolbar.com
@@ -18564,7 +18566,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 slimxxxtubejpe.ddns.name
 0.0.0.0 slimxxxtubejvh.ddns.name
 0.0.0.0 slimxxxtubejyk.ddns.name
-0.0.0.0 slimxxxtubekad.ddns.name
+0.0.0.0 slimxxxtubeKodiTVR.ddns.name
 0.0.0.0 slimxxxtubekgj.ddns.name
 0.0.0.0 slimxxxtubekgv.ddns.name
 0.0.0.0 slimxxxtubekpn.ddns.name
@@ -19066,7 +19068,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.cleanup-your-computer.com
 0.0.0.0 www.clearshieldredirect.com
 0.0.0.0 www.cle.kr
-0.0.0.0 www.clickadu.com
+0.0.0.0 www.clicKodiTVRu.com
 0.0.0.0 www.clickbank.net
 0.0.0.0 www.clickcash.com
 0.0.0.0 www.clicksagent.com
@@ -19392,7 +19394,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.opendownloadmanager.com
 0.0.0.0 www.payn.me
 0.0.0.0 www.paypal-exchange.com
-0.0.0.0 www.payperclickadvertising.org.uk
+0.0.0.0 www.payperclicKodiTVRvertising.org.uk
 0.0.0.0 www.pay-per-search.com
 0.0.0.0 www.pccleaner.com
 0.0.0.0 www.pccleanerpro.com
@@ -19893,11 +19895,11 @@ ff02::3 ip6-allhosts
 
 # End add.Spam
 
-# Start Adguard-cname
+# Start KodiTVR-add-on-cname
 
-# Title: AdGuard CNAME disguised trackers list
+# Title: KodiTVR-add-on CNAME disguised trackers list
 # Description: The list of trackers that disguise the real trackers by using CNAME records.
-# Homepage: https://github.com/AdguardTeam/cname-trackers
+# Homepage: https://github.com/KodiTVR-add-onTeam/cname-trackers
 #
 #
 # Company name: A8.net
@@ -22991,7 +22993,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 smetrics.heathrowexpress.com
 0.0.0.0 smetrics.helvetia.com
 0.0.0.0 smetrics.herbalife.com
-0.0.0.0 smetrics.hibiyakadan.com
+0.0.0.0 smetrics.hibiyaKodiTVRan.com
 0.0.0.0 smetrics.higheroneaccount.com
 0.0.0.0 smetrics.hillrom.com
 0.0.0.0 smetrics.history.ca
@@ -24638,7 +24640,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ymvikp.estadao.com.br
 0.0.0.0 ypcdbw.drive.ru
 0.0.0.0 ypcdbw.drive2.ru
-0.0.0.0 ypkado.clicrbs.com.br
+0.0.0.0 ypKodiTVRo.clicrbs.com.br
 0.0.0.0 ypwzcq.tink.de
 0.0.0.0 yrrudp.inven.co.kr
 0.0.0.0 yvcjyi.beymen.com
@@ -28217,7 +28219,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www2.basefarm.com
 0.0.0.0 www2.belaysolutions.com
 0.0.0.0 www2.benchling.com
-0.0.0.0 www2.berkadia.com
+0.0.0.0 www2.berKodiTVRia.com
 0.0.0.0 www2.bibliosansfrontieres.org
 0.0.0.0 www2.bipsolutions.com
 0.0.0.0 www2.bitnami.com
@@ -28430,7 +28432,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www2.remmedia.fr
 0.0.0.0 www2.revelian.com
 0.0.0.0 www2.rexnord.com
-0.0.0.0 www2.riskadvisory.net
+0.0.0.0 www2.risKodiTVRvisory.net
 0.0.0.0 www2.riskonnect.com
 0.0.0.0 www2.roomclip.jp
 0.0.0.0 www2.routeone.com
@@ -29212,21 +29214,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 tk.svsound.com
 0.0.0.0 tk.transavia.com
 0.0.0.0 wiz.ghostbed.com
-# End Adguard-cname
+# End KodiTVR-add-on-cname
 
-# Start Badd-Boyz-Hosts
+# Start KodiTVR-Hosts
 
-# This hosts file is brought to you by Mitchell Krog
-# Copyright: https://github.com/mitchellkrogza
-# Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
+# This hosts file is brought to you by KodiTVR
+# Copyright: https://github.com/KodiTVR-add-on
+# Source: https://github.com/KodiTVR-add-on/Kodi-TV-Hosts
 
 ##################################################################################
 #                                                                                #
-#        ___          __   __    ___                    __ __         __         #
-#       / _ )___ ____/ /__/ /   / _ )___  __ _____     / // /__  ___ / /____     #
-#      / _  / _ `/ _  / _  /   / _  / _ \/ // /_ /    / _  / _ \(_-</ __(_-<     #
-#     /____/\_,_/\_,_/\_,_/   /____/\___/\_, //__/   /_//_/\___/___/\__/___/     #
-#                                       /___/                                    #
+#                                                       __ __         __         #
+#                                                      / // /__  ___ / /____     #
+#        KodiTVR                                      / _  / _ \(_-</ __(_-<     #
+#        KodiTVR                                     /_//_/\___/___/\__/___/     #
+#                                                                                #
 ##################################################################################
 
 
@@ -29234,14 +29236,14 @@ ff02::3 ip6-allhosts
 # as long the original URL and attribution is included. 
 
 # Please forward any additions, corrections or comments by logging an issue at
-# https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
+# https://github.com/KodiTVR-add-on/Kodi-TV-Hosts/issues
 
 # This list of hosts is compiled from server logs on my own servers
 # and forms the basis of the bad referrers domain lists for
-# The Nginx Ultimate Bad Bot Blocker at: 
-# https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
-# and the Apache Ultimate Bad Bot Blocker at:
-# https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
+# 
+# https://github.com/KodiTVR-add-on/
+# 
+# https://github.com/KodiTVR-add-on/
 
 ##### Version Information #
 ###################################################
@@ -29998,7 +30000,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yunque.pluto.ro
 # END HOSTS LIST ### DO NOT EDIT THIS LINE AT ALL ###
 
-# End Badd-Boyz-Hosts
+# End KodiTVR-Hosts
 
 # Start hostsVN
 
@@ -30007,10 +30009,10 @@ ff02::3 ip6-allhosts
 # Version: 2104021338
 # Blocked: 1,776 domains
 # Only include advertisers in Vietnam
-# Homepage: https://bigdargon.github.io/hostsVN/
-# GitHub: https://github.com/bigdargon/hostsVN
-# Report issues: https://github.com/bigdargon/hostsVN/issues
-# Download: https://github.com/bigdargon/hostsVN/raw/master/option/hosts-VN
+# Homepage: https://KodiTVR-add-on.github.io/hostsVN/
+# GitHub: https://github.com/KodiTVR-add-on/hostsVN
+# Report issues: https://github.com/KodiTVR-add-on/hostsVN/issues
+# Download: https://github.com/KodiTVR-add-on/hostsVN/raw/master/option/hosts-VN
 #
 # =====================================================
 
@@ -31285,7 +31287,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 st.a.adx.vn
 0.0.0.0 t.d.adx.vn
 #[gafin.vn]
-0.0.0.0 facebookads.gafin.vn
+0.0.0.0 facebooKodiTVRs.gafin.vn
 0.0.0.0 gafin.vn
 0.0.0.0 images.gafin.vn
 0.0.0.0 m.gafin.vn
@@ -31409,7 +31411,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.laodongbinhduong.org.vn
 0.0.0.0 ads.laodongnghean.vn
 0.0.0.0 ads.marry.vn
-0.0.0.0 ads.netlinkad.vn
+0.0.0.0 ads.netlinKodiTVR.vn
 0.0.0.0 ads.nghenhinvietnam.vn
 0.0.0.0 ads.nhadatmoi.net
 0.0.0.0 ads.pcccdongduong.vn
@@ -31796,25 +31798,25 @@ ff02::3 ip6-allhosts
 
 # End hostsVN
 
-# Start KADhosts
+# Start KodiTVRhosts
 
-# Title: KADhosts
-# Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
+# Title: KodiTVRhosts
+# Description: Filtry.
 # Last modified: Sun, 04 Apr 2021, 21:04 UTC+02
 # Version: 2021.4.4.1
 # Expires: 2 days
-# Website: https://kadantiscam.netlify.app/
-# Repository: https://github.com/PolishFiltersTeam/KADhosts
-# Based on: https://github.com/PolishFiltersTeam/KAD
+# Website: https://KodiTVRantiscam.netlify.app/
+# Repository: https://github.com/KodiTVR-add-onFiltersTeam/KodiTVRhosts
+# Based on: https://github.com/KodiTVR-add-onFiltersTeam/KodiTVR
 # License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 #
 # (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
-# (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
+# 
 #
 #
 #
-# Podejrzane i/lub strony polaczone z innymi oszustwami
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
+# 
+#@ >>>>>>>> https://raw.githubusercontent.com/KodiTVR-add-onFiltersTeam/KodiTVR/master/sections/ => hosts
 0.0.0.0 1bitstudio.pl
 0.0.0.0 1slo.pl
 0.0.0.0 2easy.pl
@@ -32073,7 +32075,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cheaptronic.pl
 0.0.0.0 cheats4u.pl
 0.0.0.0 checkerboardpl.top
-0.0.0.0 chickadee.com.pl
+0.0.0.0 chicKodiTVRee.com.pl
 0.0.0.0 chicladdy.com
 0.0.0.0 chicmica.com
 0.0.0.0 chocoslim.pro
@@ -32779,7 +32781,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mollycoddlesoap.com
 0.0.0.0 mondayblog.pl
 0.0.0.0 moneywin24.com
-0.0.0.0 monikadepczynska.pl
+0.0.0.0 moniKodiTVRepczynska.pl
 0.0.0.0 montrans.com.pl
 0.0.0.0 mopik.pl
 0.0.0.0 morceko.pl
@@ -32996,7 +32998,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polandinline.com
 0.0.0.0 polenboeller-deutschland.com
 0.0.0.0 polichrom.pl
-0.0.0.0 polish-engineer.pl
+0.0.0.0 KodiTVR-add-on-engineer.pl
 0.0.0.0 politerowani.pl
 0.0.0.0 polluk.pl
 0.0.0.0 polmathome.pl
@@ -33062,7 +33064,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 przyspieszkomputer.pl
 0.0.0.0 ps7konskie.pl
 0.0.0.0 psglass.pl
-0.0.0.0 psiakademia.pl
+0.0.0.0 psiaKodiTVRemia.pl
 0.0.0.0 psiasfora.pl
 0.0.0.0 psydotcom.com
 0.0.0.0 ptmedia.com.pl
@@ -33494,7 +33496,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vidaxl.pl
 0.0.0.0 videodownloadconverter.com
 0.0.0.0 vipcheats.us
-0.0.0.0 virusblokada.pl
+0.0.0.0 virusbloKodiTVRa.pl
 0.0.0.0 vision2020.pl
 0.0.0.0 vitajuice.com.pl
 0.0.0.0 vitalib5.com
@@ -33777,7 +33779,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.cheaptronic.pl
 0.0.0.0 www.cheats4u.pl
 0.0.0.0 www.checkerboardpl.top
-0.0.0.0 www.chickadee.com.pl
+0.0.0.0 www.chicKodiTVRee.com.pl
 0.0.0.0 www.chicladdy.com
 0.0.0.0 www.chicmica.com
 0.0.0.0 www.chocoslim.pro
@@ -34377,7 +34379,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mollycoddlesoap.com
 0.0.0.0 www.mondayblog.pl
 0.0.0.0 www.moneywin24.com
-0.0.0.0 www.monikadepczynska.pl
+0.0.0.0 www.moniKodiTVRepczynska.pl
 0.0.0.0 www.montrans.com.pl
 0.0.0.0 www.mopik.pl
 0.0.0.0 www.morceko.pl
@@ -34624,7 +34626,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.przyspiesz.pl
 0.0.0.0 www.ps7konskie.pl
 0.0.0.0 www.psglass.pl
-0.0.0.0 www.psiakademia.pl
+0.0.0.0 www.psiaKodiTVRemia.pl
 0.0.0.0 www.psiasfora.pl
 0.0.0.0 www.psydotcom.com
 0.0.0.0 www.ptmedia.com.pl
@@ -35005,7 +35007,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.vidaxl.pl
 0.0.0.0 www.videodownloadconverter.com
 0.0.0.0 www.vipcheats.us
-0.0.0.0 www.virusblokada.pl
+0.0.0.0 www.virusbloKodiTVRa.pl
 0.0.0.0 www.vision2020.pl
 0.0.0.0 www.vitajuice.com.pl
 0.0.0.0 www.vitalib5.com
@@ -35312,7 +35314,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pl-huda.myshopify.com
 0.0.0.0 www.pobierz-online.co.pl
 0.0.0.0 www.polenboeller-deutschland.com
-0.0.0.0 www.polish-engineer.pl
+0.0.0.0 www.KodiTVR-add-on-engineer.pl
 0.0.0.0 www.polska-tv.pl
 0.0.0.0 www.polski-fashionoutlet.com
 0.0.0.0 www.potega-wyobrazni.pl
@@ -35478,11 +35480,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 zurtchojnice.pl
 0.0.0.0 zwiekszycsprzedaz.pl
 0.0.0.0 z-promo.com
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/KodiTVR-add-onFiltersTeam/KodiTVR/master/sections/podejrzane_inne_oszustwa.txt => hosts
 #
 #
 # Przekierowuja do innych stron z przekretami
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt => hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/KodiTVR-add-onFiltersTeam/KodiTVR/master/sections/przekierowujace_do_przekretow.txt => hosts
 0.0.0.0 0n.click
 0.0.0.0 abihpopihigh.tk
 0.0.0.0 abrakasba.space
@@ -35825,11 +35827,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 yarlnk.com
 0.0.0.0 your-online-profits.life
 0.0.0.0 yyn.us
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekierowujace_do_przekretow.txt => hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/KodiTVR-add-onFiltersTeam/KodiTVR/master/sections/przekierowujace_do_przekretow.txt => hosts
 #
 #
 # Szybko wygaszajace
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt => hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/KodiTVR-add-onFiltersTeam/KodiTVR/master/sections/szybko_wygaszajace.txt => hosts
 0.0.0.0 15b37.skroc.pl
 0.0.0.0 4332.ws
 0.0.0.0 ab4hr.com
@@ -36018,11 +36020,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 zcontentlocker7gpa8a.xyz
 0.0.0.0 zejrzyj-zdjecia.bo.pl
 0.0.0.0 zgarniij_vouchher.skroc.pl
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/szybko_wygaszajace.txt => hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/KodiTVR-add-onFiltersTeam/KodiTVR/master/sections/szybko_wygaszajace.txt => hosts
 #
 #
 # Przekrety
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt => hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/KodiTVR-add-onFiltersTeam/KodiTVR/master/sections/przekrety.txt => hosts
 0.0.0.0 0b8cc331813049912.temporary.link
 0.0.0.0 0lx.group
 0.0.0.0 0pen.page
@@ -36165,7 +36167,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ainvestments.com
 0.0.0.0 airycloth.com
 0.0.0.0 airydress.com
-0.0.0.0 akademia-kursow-rozwojowych-app.com
+0.0.0.0 aKodiTVRemia-kursow-rozwojowych-app.com
 0.0.0.0 akazoo.pl
 0.0.0.0 akceptacja-regulaminu.com
 0.0.0.0 akceptuj-regulamin.online
@@ -36208,8 +36210,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 aliorbank.io
 0.0.0.0 aliorbankonline.ru
 0.0.0.0 aliorkurier.org
-0.0.0.0 alkadiakurier.com
-0.0.0.0 alkadiakurier.org
+0.0.0.0 alKodiTVRiakurier.com
+0.0.0.0 alKodiTVRiakurier.org
 0.0.0.0 alkoskurier.com
 0.0.0.0 allego.icu
 0.0.0.0 allegor.xyz
@@ -36788,7 +36790,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ctizuhvdko.web.app
 0.0.0.0 ctxholdings.com
 0.0.0.0 cuorl.top
-0.0.0.0 cuosdemakadi.gq
+0.0.0.0 cuosdemaKodiTVRi.gq
 0.0.0.0 curryhouse.com.pl
 0.0.0.0 customernoble.com
 0.0.0.0 cutdoor.top
@@ -38730,7 +38732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 muqgllmqtyllhwn.com
 0.0.0.0 murarzplus.pl
 0.0.0.0 music611.com
-0.0.0.0 mutlukadinlarakademisi.com
+0.0.0.0 mutluKodiTVRinlaraKodiTVRemisi.com
 0.0.0.0 mycoinology.com
 0.0.0.0 mydnssbox.gleeze.com
 0.0.0.0 myeforsa.pl
@@ -39594,9 +39596,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 paczka24h-dhl.com
 0.0.0.0 paczka24-oplata.com
 0.0.0.0 paczkaadam.com
-0.0.0.0 paczkadhl24.com
-0.0.0.0 paczkadhl-nadwaga.com
-0.0.0.0 paczkadpd.com
+0.0.0.0 paczKodiTVRhl24.com
+0.0.0.0 paczKodiTVRhl-nadwaga.com
+0.0.0.0 paczKodiTVRpd.com
 0.0.0.0 paczkagls.com
 0.0.0.0 paczkainpost.com
 0.0.0.0 paczka-48.com
@@ -39791,7 +39793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 perspektywa2012.za.pl
 0.0.0.0 pewiendzienzmieniazycie.site
 0.0.0.0 pey24pey.net
-0.0.0.0 peyblokady.net
+0.0.0.0 peybloKodiTVRy.net
 0.0.0.0 peyernet.net
 0.0.0.0 peyeros.net
 0.0.0.0 peyeye.net
@@ -40208,11 +40210,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 policja24info.pl.d103wh.d2.cz
 0.0.0.0 policy-secure-account.com
 0.0.0.0 policzmy-glosujemy.eu
-0.0.0.0 polishfashionshops.pl
-0.0.0.0 polishpolar.com
-0.0.0.0 polishwebmailadmin.weebly.com
-0.0.0.0 polishwebmailupgrade.weebly.com
-0.0.0.0 polish-designeroutlet.com
+0.0.0.0 KodiTVR-add-onfashionshops.pl
+0.0.0.0 KodiTVR-add-onpolar.com
+0.0.0.0 KodiTVR-add-onwebmailadmin.weebly.com
+0.0.0.0 KodiTVR-add-onwebmailupgrade.weebly.com
+0.0.0.0 KodiTVR-add-on-designeroutlet.com
 0.0.0.0 polisy4u.pl
 0.0.0.0 politykaprywatnosci.live
 0.0.0.0 politykaprywatnosci.org
@@ -40231,7 +40233,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 polska24.serwerplus.pl
 0.0.0.0 polska24info.dkonto.pl
 0.0.0.0 polska24poszukiwani.dkonto.pl
-0.0.0.0 polskadziennik.pl
+0.0.0.0 polsKodiTVRziennik.pl
 0.0.0.0 polskagazeta.xyz
 0.0.0.0 polskainfo.co.pl
 0.0.0.0 polskainfo.nbhost.pl
@@ -40303,7 +40305,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pomoc-regulamin.online
 0.0.0.0 pomoc-rodzinom.website
 0.0.0.0 pomoc-windykacja.pl
-0.0.0.0 pomorskaakademia.com.pl
+0.0.0.0 pomorskaaKodiTVRemia.com.pl
 0.0.0.0 pomoz-glosujac.eu
 0.0.0.0 pomoz-reprezentantowi.eu
 0.0.0.0 pomyslynazzycie.online
@@ -41314,7 +41316,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 unnathimilk.com
 0.0.0.0 unsubscribe.vomeo8wflpty52u.neyazco.ir
 0.0.0.0 upcty2.wixsite.com
-0.0.0.0 updatepolishwebmail.weebly.com
+0.0.0.0 updateKodiTVR-add-onwebmail.weebly.com
 0.0.0.0 updateservicesverification.web.app
 0.0.0.0 update-1.com
 0.0.0.0 upgrade-flash-player.digital
@@ -41430,7 +41432,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 weartexhibitions.com
 0.0.0.0 weblancer.pl
 0.0.0.0 webmail93949840839.com.ng
-0.0.0.0 webmailpolishadmin.weebly.com
+0.0.0.0 webmailKodiTVR-add-onadmin.weebly.com
 0.0.0.0 webpostzz.000webhostapp.com
 0.0.0.0 webtoprostezarub.xaa.pl
 0.0.0.0 webwood.pl
@@ -41642,8 +41644,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.aliorbankonline.ru
 0.0.0.0 www.aliorbank.io
 0.0.0.0 www.aliorkurier.org
-0.0.0.0 www.alkadiakurier.com
-0.0.0.0 www.alkadiakurier.org
+0.0.0.0 www.alKodiTVRiakurier.com
+0.0.0.0 www.alKodiTVRiakurier.org
 0.0.0.0 www.alkoskurier.com
 0.0.0.0 www.allegor.xyz
 0.0.0.0 www.allego.icu
@@ -42053,7 +42055,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ctizuhvdko.web.app
 0.0.0.0 www.ctxholdings.com
 0.0.0.0 www.cuorl.top
-0.0.0.0 www.cuosdemakadi.gq
+0.0.0.0 www.cuosdemaKodiTVRi.gq
 0.0.0.0 www.curryhouse.com.pl
 0.0.0.0 www.customernoble.com
 0.0.0.0 www.cutdoor.top
@@ -43298,7 +43300,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.muqgllmqtyllhwn.com
 0.0.0.0 www.murarzplus.pl
 0.0.0.0 www.music611.com
-0.0.0.0 www.mutlukadinlarakademisi.com
+0.0.0.0 www.mutluKodiTVRinlaraKodiTVRemisi.com
 0.0.0.0 www.mycoinology.com
 0.0.0.0 www.mydnssbox.gleeze.com
 0.0.0.0 www.myeforsa.pl
@@ -43661,8 +43663,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pacuskurier.org
 0.0.0.0 www.paczinfo.com
 0.0.0.0 www.paczkaadam.com
-0.0.0.0 www.paczkadhl24.com
-0.0.0.0 www.paczkadpd.com
+0.0.0.0 www.paczKodiTVRhl24.com
+0.0.0.0 www.paczKodiTVRpd.com
 0.0.0.0 www.paczkagls.com
 0.0.0.0 www.paczkainpost.com
 0.0.0.0 www.paczkdups.com
@@ -43771,7 +43773,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.perspektywa2012.za.pl
 0.0.0.0 www.pewiendzienzmieniazycie.site
 0.0.0.0 www.pey24pey.net
-0.0.0.0 www.peyblokady.net
+0.0.0.0 www.peybloKodiTVRy.net
 0.0.0.0 www.peyernet.net
 0.0.0.0 www.peyeros.net
 0.0.0.0 www.peyeye.net
@@ -43921,10 +43923,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.polarizeshop.com
 0.0.0.0 www.policja24info.pl.d103wh.d2.cz
 0.0.0.0 www.polic.you2.pl
-0.0.0.0 www.polishfashionshops.pl
-0.0.0.0 www.polishpolar.com
-0.0.0.0 www.polishwebmailadmin.weebly.com
-0.0.0.0 www.polishwebmailupgrade.weebly.com
+0.0.0.0 www.KodiTVR-add-onfashionshops.pl
+0.0.0.0 www.KodiTVR-add-onpolar.com
+0.0.0.0 www.KodiTVR-add-onwebmailadmin.weebly.com
+0.0.0.0 www.KodiTVR-add-onwebmailupgrade.weebly.com
 0.0.0.0 www.polisy4u.pl
 0.0.0.0 www.politykaprywatnosci.live
 0.0.0.0 www.politykaprywatnosci.org
@@ -43937,7 +43939,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.polska24.ehost.pl
 0.0.0.0 www.polska24.eu
 0.0.0.0 www.polska24.serwerplus.pl
-0.0.0.0 www.polskadziennik.pl
+0.0.0.0 www.polsKodiTVRziennik.pl
 0.0.0.0 www.polskagazeta.xyz
 0.0.0.0 www.polskainfo.co.pl
 0.0.0.0 www.polskainfo.nbhost.pl
@@ -43981,7 +43983,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pomoc48.you2.pl
 0.0.0.0 www.pomocdlafranka.pl
 0.0.0.0 www.pomocdlajanka.online
-0.0.0.0 www.pomorskaakademia.com.pl
+0.0.0.0 www.pomorskaaKodiTVRemia.com.pl
 0.0.0.0 www.pomyslynazzycie.online
 0.0.0.0 www.poolup.io
 0.0.0.0 www.popflix.pl
@@ -44601,7 +44603,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.unnathimilk.com
 0.0.0.0 www.unsubscribe.vomeo8wflpty52u.neyazco.ir
 0.0.0.0 www.upcty2.wixsite.com
-0.0.0.0 www.updatepolishwebmail.weebly.com
+0.0.0.0 www.updateKodiTVR-add-onwebmail.weebly.com
 0.0.0.0 www.updateservicesverification.web.app
 0.0.0.0 www.upocztapolska.net
 0.0.0.0 www.uprawomocnic.moonfruit.com
@@ -44680,7 +44682,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.weartexhibitions.com
 0.0.0.0 www.weblancer.pl
 0.0.0.0 www.webmail93949840839.com.ng
-0.0.0.0 www.webmailpolishadmin.weebly.com
+0.0.0.0 www.webmailKodiTVR-add-onadmin.weebly.com
 0.0.0.0 www.webtoprostezarub.xaa.pl
 0.0.0.0 www.webwood.pl
 0.0.0.0 www.weekend24.online
@@ -44994,7 +44996,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ailegro-lokalnie-283974.in.net
 0.0.0.0 www.ailegro-lokalnie-pl-oferta.life
 0.0.0.0 www.ailegro-pl-lokainie-oferta.live
-0.0.0.0 www.akademia-kursow-rozwojowych-app.com
+0.0.0.0 www.aKodiTVRemia-kursow-rozwojowych-app.com
 0.0.0.0 www.akceptacja-regulaminu.com
 0.0.0.0 www.akceptuj-regulamin.online
 0.0.0.0 www.akceptuj-regulamin.site
@@ -46380,7 +46382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.o-l-x.com
 0.0.0.0 www.paczka24h-dhl.com
 0.0.0.0 www.paczka24-oplata.com
-0.0.0.0 www.paczkadhl-nadwaga.com
+0.0.0.0 www.paczKodiTVRhl-nadwaga.com
 0.0.0.0 www.paczka-48.com
 0.0.0.0 www.paczka-dhl.com
 0.0.0.0 www.paczka-doplata.net
@@ -46684,7 +46686,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.poland-oferta.shop
 0.0.0.0 www.policy-secure-account.com
 0.0.0.0 www.policzmy-glosujemy.eu
-0.0.0.0 www.polish-designeroutlet.com
+0.0.0.0 www.KodiTVR-add-on-designeroutlet.com
 0.0.0.0 www.politykaprywatnosci-onet.live
 0.0.0.0 www.politykapryw-onet.net
 0.0.0.0 www.polityka-antyspamowa.live
@@ -47545,11 +47547,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 zyciezdnianadzien.cyou
 0.0.0.0 zyzlk.com
 0.0.0.0 z-kraju.co.pl
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/przekrety.txt => hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/KodiTVR-add-onFiltersTeam/KodiTVR/master/sections/przekrety.txt => hosts
 #
 #
 # Blogspot
-#@ >>>>>>>> https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => hosts
+#@ >>>>>>>> https://raw.githubusercontent.com/KodiTVR-add-onFiltersTeam/KodiTVR/master/sections/blogspot.txt => hosts
 0.0.0.0 5gb-internetu-pakiety.blogspot.com
 0.0.0.0 123musicblend.blogspot.com
 0.0.0.0 accelerationlife.blogspot.com
@@ -47581,7 +47583,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 barrylearnsaboutart.blogspot.com
 0.0.0.0 batmantakhebat.blogspot.com
 0.0.0.0 beatsfortheone.blogspot.com
-0.0.0.0 beauty-and-nailspolish.blogspot.com
+0.0.0.0 beauty-and-nailsKodiTVR-add-on.blogspot.com
 0.0.0.0 beinghypothermic.blogspot.com
 0.0.0.0 bella-khusairi.blogspot.com
 0.0.0.0 black-jack-chewingkon.blogspot.com
@@ -47750,7 +47752,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 redsoxitalia.blogspot.com
 0.0.0.0 ruru-fashion.blogspot.com
 0.0.0.0 saidatulasmiza.blogspot.com
-0.0.0.0 salamukadimah.blogspot.com
+0.0.0.0 salamuKodiTVRimah.blogspot.com
 0.0.0.0 sekuduskasihmu.blogspot.com
 0.0.0.0 sembilanfm.blogspot.com
 0.0.0.0 shesbuttercup.blogspot.com
@@ -47957,7 +47959,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.programyfb.blogspot.com
 0.0.0.0 www.redsoxitalia.blogspot.com
 0.0.0.0 www.saidatulasmiza.blogspot.com
-0.0.0.0 www.salamukadimah.blogspot.com
+0.0.0.0 www.salamuKodiTVRimah.blogspot.com
 0.0.0.0 www.sekuduskasihmu.blogspot.com
 0.0.0.0 www.sembilanfm.blogspot.com
 0.0.0.0 www.shesbuttercup.blogspot.com
@@ -48011,7 +48013,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.aisha-khadija.blogspot.com
 0.0.0.0 www.and-4ever.blogspot.com
 0.0.0.0 www.axeramus-poeta.blogspot.com
-0.0.0.0 www.beauty-and-nailspolish.blogspot.com
+0.0.0.0 www.beauty-and-nailsKodiTVR-add-on.blogspot.com
 0.0.0.0 www.bella-khusairi.blogspot.com
 0.0.0.0 www.black-jack-chewingkon.blogspot.com
 0.0.0.0 www.colors-app.blogspot.com
@@ -48092,7 +48094,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zmien-motyw.blogspot.com
 0.0.0.0 zobaczktopodgladaa.blogspot.com
 0.0.0.0 zuzu-criss.blogspot.com
-#@ <<<<<<<< https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/sections/blogspot.txt => hosts
+#@ <<<<<<<< https://raw.githubusercontent.com/KodiTVR-add-onFiltersTeam/KodiTVR/master/sections/blogspot.txt => hosts
 #
 #
 # Dodatki hosts
@@ -52218,7 +52220,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zgwalconadziewczyna.site
 0.0.0.0 zmienkolory.blogspot.com
 
-# End KADhosts
+# End KodiTVRhosts
 
 # Start MetaMask
 
@@ -54897,7 +54899,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.trackedweb.net
 # [Amazon.com][AS14618][174.129.0.0 - 174.129.255.255]
 0.0.0.0 ads20.adcolony.com
-0.0.0.0 askads.ask.com
+0.0.0.0 asKodiTVRs.ask.com
 0.0.0.0 server1.beaconpush.com
 0.0.0.0 ads.chango.com
 0.0.0.0 adunit.chango.com
@@ -55205,7 +55207,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.prizeglobal.net
 0.0.0.0 trax.prostrax.com
 0.0.0.0 vid-io-dub.springserve.com
-0.0.0.0 srv.stackadapt.com
+0.0.0.0 srv.stacKodiTVRapt.com
 0.0.0.0 admediator.unityads.unity3d.com
 # 0.0.0.0 wurfl.io #[affects Google]
 # [Amazon.com][AS16509][54.176.0.0 - 54.191.255.255]
@@ -55810,7 +55812,7 @@ ff02::3 ip6-allhosts
 # [Broadbandone][AS13645][75.119.128.0 - 75.119.191.255]
 0.0.0.0 tracking.godatafeed.com
 # [BroadRiver][AS13703][208.52.128.0 - 208.52.191.255]
-0.0.0.0 www.cbeckads.com
+0.0.0.0 www.cbecKodiTVRs.com
 0.0.0.0 atrd.netmng.com
 0.0.0.0 brnys.netmng.com
 0.0.0.0 com-kia.netmng.com
@@ -58916,7 +58918,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clients.pointroll.com
 0.0.0.0 ads.queendom.com
 0.0.0.0 www.text-link-ads.com
-0.0.0.0 www.textlinkads.com
+0.0.0.0 www.textlinKodiTVRs.com
 0.0.0.0 secure.w3track.com
 # [Rackspace.com][74.205.0.0 - 74.205.127.255]
 0.0.0.0 sinettrk.com
@@ -59454,7 +59456,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.clixtrac.com
 0.0.0.0 ic.tynt.com
 # [Suavemente / IzoWeb][AS14572][66.11.113.0 - 66.11.114.255]
-0.0.0.0 freakads.com
+0.0.0.0 freaKodiTVRs.com
 # [SuperHost.pl][AS41079][193.218.152.0 - 193.218.155.255]
 0.0.0.0 poponclick.com
 # [Superhosting.bg][AS201200][164.138.216.0 - 164.138.217.255]
@@ -60793,7 +60795,7 @@ ff02::3 ip6-allhosts
 # [WebaZilla][AS35415][193.105.200.0 - 193.105.200.255]
 0.0.0.0 rmbn.net
 # [WebaZilla][AS35415][206.54.160.0 - 206.54.191.255]
-0.0.0.0 aclickads.com
+0.0.0.0 aclicKodiTVRs.com
 0.0.0.0 onclkds.com
 # [WebaZilla][AS35415][74.117.176.0/21]
 0.0.0.0 hilltopads.net
@@ -60813,7 +60815,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imgn.marketgid.com
 0.0.0.0 jsn.marketgid.com
 0.0.0.0 go.mobytrks.com
-0.0.0.0 onclickads.net
+0.0.0.0 onclicKodiTVRs.net
 0.0.0.0 onlinadverts.com
 0.0.0.0 otherprofit.com
 0.0.0.0 t.otherprofit.com
@@ -64714,7 +64716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 x-iting.de
 0.0.0.0 youprocontact.uk
 0.0.0.0 yourclub1.com
-0.0.0.0 yuvikadvertisments.com
+0.0.0.0 yuviKodiTVRvertisments.com
 0.0.0.0 zenmart.in
 0.0.0.0 zytrox.tk
 
@@ -64795,7 +64797,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.stack-sonar.com
 
 #
-# From https://github.com/prebid/Prebid.js
+# From https://github.com/KodiTVR-add-on
 #
 
 0.0.0.0 bidder.7xbid.com
@@ -66134,7 +66136,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rightstats.com
 0.0.0.0 rm-admin-demo.iovation.com
 0.0.0.0 rmcentre.bigfilmproduction.com
-0.0.0.0 roskatrack.roskadirect.com
+0.0.0.0 roskatrack.rosKodiTVRirect.com
 0.0.0.0 rotator.trafficstars.com
 0.0.0.0 rr2.xxxcounter.com
 0.0.0.0 rr3.xxxcounter.com
@@ -69157,7 +69159,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.fnnews.com
 0.0.0.0 ad.fo.net
 0.0.0.0 ad.funpic.de
-0.0.0.0 ad.garantiarkadas.com
+0.0.0.0 ad.garantiarKodiTVRas.com
 0.0.0.0 ad.gazeta.pl
 0.0.0.0 ad.ghfusion.com
 0.0.0.0 ad.goo.ne.jp
@@ -69732,7 +69734,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.adworldnetwork.com
 0.0.0.0 ads.adx.nu
 0.0.0.0 ads.adxpose.com
-0.0.0.0 ads.adxpose.mpire.akadns.net
+0.0.0.0 ads.adxpose.mpire.aKodiTVRns.net
 0.0.0.0 ads.aftonbladet.se
 0.0.0.0 ads.ah-ha.com
 0.0.0.0 ads.ahds.ac.uk
@@ -69838,7 +69840,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.clearchannel.com
 0.0.0.0 ads.cleveland.com
 0.0.0.0 ads.clickability.com
-0.0.0.0 ads.clickad.com.pl
+0.0.0.0 ads.clicKodiTVR.com.pl
 0.0.0.0 ads.clickagents.com
 0.0.0.0 ads.clickhouse.com
 0.0.0.0 ads.clicksor.com
@@ -70422,7 +70424,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads1.globeandmail.com
 0.0.0.0 ads1.itadnetwork.co.uk
 0.0.0.0 ads1.jev.co.za
-0.0.0.0 ads1.perfadbrite.com.akadns.net
+0.0.0.0 ads1.perfadbrite.com.aKodiTVRns.net
 0.0.0.0 ads1.performancingads.com
 0.0.0.0 ads1.realcities.com
 0.0.0.0 ads1.revenue.net
@@ -70470,7 +70472,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads2.advertwizard.com
 0.0.0.0 ads2.canoe.ca
 0.0.0.0 ads2.clearchannel.com
-0.0.0.0 ads2.clickad.com
+0.0.0.0 ads2.clicKodiTVR.com
 0.0.0.0 ads2.collegclub.com
 0.0.0.0 ads2.collegeclub.com
 0.0.0.0 ads2.drivelinemedia.com
@@ -71612,7 +71614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bs.israelinfo.ru
 0.0.0.0 bs.url.tw
 0.0.0.0 bsads.looksmart.com
-0.0.0.0 bsnj.eyeblaster.akadns.net
+0.0.0.0 bsnj.eyeblaster.aKodiTVRns.net
 0.0.0.0 bt.linkpulse.com
 0.0.0.0 btbuyerapp.com
 0.0.0.0 btkiwisys.com
@@ -71926,7 +71928,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 click2.rbc.magna.ru
 0.0.0.0 click3.rbc.magna.ru
 0.0.0.0 click4.rbc.magna.ru
-0.0.0.0 clickad.eo.pl
+0.0.0.0 clicKodiTVR.eo.pl
 0.0.0.0 clickarrows.com
 0.0.0.0 clickbangpop.com
 0.0.0.0 clickit.go2net.com
@@ -71955,7 +71957,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clk.addmt.com
 0.0.0.0 clk.atdmt.com
 0.0.0.0 clk.cloudyisland.com
-0.0.0.0 clkads.com
+0.0.0.0 clKodiTVRs.com
 0.0.0.0 clktrk.com
 0.0.0.0 closeoutproductsreview.com
 0.0.0.0 cloud-store-cdn.com
@@ -73989,8 +73991,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 network.adsmarket.com
 0.0.0.0 network.realmedia.com
 0.0.0.0 network.realtechnetwork.net
-0.0.0.0 networkad.net
-0.0.0.0 networkads.net
+0.0.0.0 networKodiTVR.net
+0.0.0.0 networKodiTVRs.net
 0.0.0.0 neumanns-installation.de
 0.0.0.0 new-ads.eurogamer.net
 0.0.0.0 new.lerian-nti.be
@@ -74676,7 +74678,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 r.ligatus.com
 0.0.0.0 r.nexac.com
 0.0.0.0 r.reklama.biz
-0.0.0.0 r.turn.com.akadns.net
+0.0.0.0 r.turn.com.aKodiTVRns.net
 0.0.0.0 r1-ads.ace.advertising.com
 0.0.0.0 r2.adwo.com
 0.0.0.0 r7mediar.com
@@ -75483,7 +75485,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tcimg.com
 0.0.0.0 tdc.advertorials.dk
 0.0.0.0 tdethzebgufhuqt.cinci.rr.com
-0.0.0.0 tdkads.ads.dk
+0.0.0.0 tdKodiTVRs.ads.dk
 0.0.0.0 te.kontera.com
 0.0.0.0 team4heat.net
 0.0.0.0 teatac4bath.com
@@ -75612,7 +75614,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tr.tu.connect.wunderloop.net
 0.0.0.0 tr.wl.webads.nl
 0.0.0.0 traaaack.com
-0.0.0.0 track-apmebf.cj.akadns.net
+0.0.0.0 track-apmebf.cj.aKodiTVRns.net
 0.0.0.0 track.adjal.com
 0.0.0.0 track.analyticsbridge.io
 0.0.0.0 track.bigbrandpromotions.com
@@ -75626,7 +75628,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.vscash.com
 0.0.0.0 track.whitespace57.com
 0.0.0.0 track.zmsndy.com
-0.0.0.0 trackadvertising.net
+0.0.0.0 tracKodiTVRvertising.net
 0.0.0.0 tracker.awr.im
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracker.cdn-analytics.host
@@ -75652,7 +75654,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 traffic.getmyads.com
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trafficbee.com
-0.0.0.0 trafficnetworkads24.com
+0.0.0.0 trafficnetworKodiTVRs24.com
 0.0.0.0 trafficrevenue.net
 0.0.0.0 trafficsan.com
 0.0.0.0 traffictraders.com
@@ -76340,7 +76342,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.blasphemysfhs.info
 0.0.0.0 www.blatant8jh.info
 0.0.0.0 www.blazingtrader.biz
-0.0.0.0 www.blockadsnot.com
+0.0.0.0 www.blocKodiTVRsnot.com
 0.0.0.0 www.blockchaintop.nl
 0.0.0.0 www.blossomtel.com
 0.0.0.0 www.bluecrabhosting.co.uk
@@ -77128,11 +77130,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.topworld.nl
 0.0.0.0 www.toy-offer.com
 0.0.0.0 www.toy-offer.net
-0.0.0.0 www.trackadvertising.net
+0.0.0.0 www.tracKodiTVRvertising.net
 0.0.0.0 www.tracklead.net
 0.0.0.0 www.tradelax.com
 0.0.0.0 www.tradem.com
-0.0.0.0 www.trafficnetworkads24.com
+0.0.0.0 www.trafficnetworKodiTVRs24.com
 0.0.0.0 www.trafficrevenue.net
 0.0.0.0 www.traffictrader.net
 0.0.0.0 www.traffictraders.com
@@ -78283,7 +78285,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecard4all.com
 0.0.0.0 eforu.com
 0.0.0.0 freewebcards.com
-0.0.0.0 fukkad.com
+0.0.0.0 fukKodiTVR.com
 0.0.0.0 fun-e-cards.com
 0.0.0.0 funnyreign.com  # heavy spam (Site Advisor received 1075 e-mails/week)
 0.0.0.0 funsilly.com
@@ -79142,13 +79144,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 g.msn.com
 0.0.0.0 h1.msn.com
-0.0.0.0 lb1.www.ms.akadns.net
+0.0.0.0 lb1.www.ms.aKodiTVRns.net
 0.0.0.0 live.rads.msn.com
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
 0.0.0.0 preview.msn.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 so.2mdn.net
-0.0.0.0 schemas.microsoft.akadns.net
+0.0.0.0 schemas.microsoft.aKodiTVRns.net
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 telemetry.appex.bing.net
@@ -79170,7 +79172,7 @@ ff02::3 ip6-allhosts
 #  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas 
 #  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, 
 #  Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
-#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike 
+#  Varni, Adam P. Cole, George LefKodiTVRitis, grzesiek, Adam Howard, Mike 
 #  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, 
 #  Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
 #  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, 
@@ -79426,7 +79428,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adrcf.com
 0.0.0.0 adresult-sp.jp
 0.0.0.0 adresult.jp
-0.0.0.0 ads-api.hackadoll.com
+0.0.0.0 ads-api.hacKodiTVRoll.com
 0.0.0.0 ads-i2i.jp
 0.0.0.0 ads-tool.jp
 0.0.0.0 ads-tr.bigmining.com
@@ -80290,7 +80292,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lvbagonsale.com
 0.0.0.0 lveif.com
 0.0.0.0 lvk7.com
-0.0.0.0 lvnkad.com
+0.0.0.0 lvnKodiTVR.com
 0.0.0.0 lvreig.net
 0.0.0.0 m-arata.com
 0.0.0.0 m.ad.adlantis.jp
@@ -80427,7 +80429,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 optag.searchteria.co.jp
 0.0.0.0 optimize.adpushup.com
 0.0.0.0 orangemovie.link
-0.0.0.0 osakadepo.com
+0.0.0.0 osaKodiTVRepo.com
 0.0.0.0 osiete-k.com
 0.0.0.0 ot.ca-mpr.jp
 0.0.0.0 otaimg.com
@@ -80649,7 +80651,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shopapi.ranking.rakuten.co.jp
 0.0.0.0 simplereach.com
 0.0.0.0 sin.creativecdn.com
-0.0.0.0 sirokad.net
+0.0.0.0 siroKodiTVR.net
 0.0.0.0 skimresources.com
 0.0.0.0 smaad.jp
 0.0.0.0 smac-ssp.com
@@ -81428,7 +81430,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jpwoodfordco.com
 0.0.0.0 jumpmanualjacobhiller.com
 0.0.0.0 justinscott.com.au
-0.0.0.0 kadigital.co.uk
+0.0.0.0 KodiTVRigital.co.uk
 0.0.0.0 kaizenjanitorial.com
 0.0.0.0 kalawatihomes.com
 0.0.0.0 karer.by
@@ -81945,7 +81947,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.cubescargoexpress.com
 0.0.0.0 www.cwa.mx
 0.0.0.0 www.cyclomove.com
-0.0.0.0 www.datapolish.com
+0.0.0.0 www.dataKodiTVR-add-on.com
 0.0.0.0 www.dental.xiaoxiao.media
 0.0.0.0 www.dongphuctop.com
 0.0.0.0 www.dzinestudio87.co.uk
@@ -82010,7 +82012,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yoast.yourpageserver.com
 0.0.0.0 youtubetrainingacademy.com
 0.0.0.0 yp.hnggzyjy.cn
-0.0.0.0 yskadvisors.com
+0.0.0.0 ysKodiTVRvisors.com
 0.0.0.0 yzkzixun.com
 0.0.0.0 zmedcoach.com
 0.0.0.0 zz.690tx.com
@@ -82824,7 +82826,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bizzclick.com
 0.0.0.0 blingbucks.com
 0.0.0.0 blis.com
-0.0.0.0 blockadblock.com
+0.0.0.0 blocKodiTVRblock.com
 0.0.0.0 blockthrough.com
 0.0.0.0 blogcounter.de
 0.0.0.0 blogherads.com
@@ -82930,7 +82932,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 click.twcwigs.com
 0.0.0.0 click2freemoney.com
 0.0.0.0 clickability.com
-0.0.0.0 clickadz.com
+0.0.0.0 clicKodiTVRz.com
 0.0.0.0 clickagents.com
 0.0.0.0 clickbank.com
 0.0.0.0 clickbooth.com
@@ -83459,7 +83461,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jauchuwa.net
 0.0.0.0 jcount.com
 0.0.0.0 jdoqocy.com
-0.0.0.0 jinkads.de
+0.0.0.0 jinKodiTVRs.de
 0.0.0.0 joetec.net
 0.0.0.0 js.users.51.la
 0.0.0.0 jsrdn.com
@@ -83536,7 +83538,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lijit.com
 0.0.0.0 line.jzs001.cn
 0.0.0.0 link-booster.de
-0.0.0.0 linkadd.de
+0.0.0.0 linKodiTVRd.de
 0.0.0.0 linkexchange.com
 0.0.0.0 linkprice.com
 0.0.0.0 linkrain.com
@@ -84198,7 +84200,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 srvtrck.com
 0.0.0.0 srwww1.com
 0.0.0.0 stack-sonar.com
-0.0.0.0 stackadapt.com
+0.0.0.0 stacKodiTVRapt.com
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
 0.0.0.0 stalesummer.com
@@ -84315,7 +84317,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 the-ozone-project.com
 0.0.0.0 theadex.com
 0.0.0.0 theadhost.com
-0.0.0.0 theclickads.com
+0.0.0.0 theclicKodiTVRs.com
 0.0.0.0 themoneytizer.com
 0.0.0.0 therapistla.com
 0.0.0.0 thinkablerice.com
@@ -84644,3 +84646,13 @@ ff02::3 ip6-allhosts
 # 'example.com':
 
 # 0.0.0.0 example.com
+#
+# ===================================================================================================================================
+#####################################################################################################################################
+#            88888 Yb    dP    8              .d88b                         |8|  .8/""                                              #
+#   0000       8    Yb  dP     88b. Yb  dP    8P www 8d8b 8   8 88b. .d8b.  |8| .8/                   w 88888 Yb     dP|888b.       #
+#              8     YbdP      8  8  YbdP     8b  d8 8P   8b d8 8  8 8' .8  |8wwKK|    .d8b.  |88b.  |8| |8|    Yb  dP |8  .8   (c) #
+#              8      YP       88P'   dP      `Y88P' 8    `Y8P8 88P' `Y8P'  |8|  Yb\  8'| |.8 |8| |8 |8| |8|     YbdP  |8wwk`       #
+#                                     8                         8           |8|  'Yb\__`Y8P´  |88P'  |8| |8|      YP   |8  Yb_      #
+#####################################################################################################################################
+# ===================================================================================================================================
